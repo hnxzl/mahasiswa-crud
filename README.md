@@ -28,7 +28,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[USERNAME-ANDA]/[NAMA-REPOSITORI-ANDA].git
+    git clone https://github.com/hnxzl/mahasiswa-crud.git
     ```
 
 2.  **Masuk ke direktori proyek:**
