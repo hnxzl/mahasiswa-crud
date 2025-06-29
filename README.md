@@ -33,7 +33,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
 
 2.  **Masuk ke direktori proyek:**
     ```bash
-    cd [NAMA-REPOSITORI-ANDA]
+    cd mahasiswa-crud
     ```
 
 3.  **Install semua dependency Composer:**
@@ -76,6 +76,6 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
     php artisan serve
     ```
 
-10. **Buka browser** dan kunjungi `http://127.0.0.1:8000`.
+10. **Buka browser** dan kunjungi `localhost:8000/mahasiswa`.
 
 ---
